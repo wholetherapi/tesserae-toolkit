@@ -1,0 +1,9 @@
+{
+  "product": "marsh-canopy-tiles-2026",
+  "tiles": [
+    {"tile_id": "t0", "parent": null, "hash": "a1b2c3"},
+    {"tile_id": "t1", "parent": "t0", "hash": "d4e5f6"},
+    {"tile_id": "t2", "parent": "t1", "hash": "071829"},
+    {"tile_id": "t3", "parent": "t1", "hash": null}
+  ]
+}

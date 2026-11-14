@@ -1,0 +1,9 @@
+[project]
+name = "tesserae-toolkit"
+version = "0.4.1"
+description = "Provenance auditing for tiled raster products"
+requires-python = ">=3.10"
+dependencies = ["click>=8.1", "pydantic>=2.0"]
+
+[project.scripts]
+tesserae = "tesserae.audit:cli"
